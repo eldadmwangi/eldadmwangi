@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Eldad Mwangi</h1>
+<h1 align="center">👋, I'm Eldad Mwangi</h1>
 <h3 align="center">I am a front-end developer</h3>
 
 - 🌱 I’m currently learning **Django,QA automation**
