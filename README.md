@@ -3,7 +3,7 @@
 <h1 align="center">👋, I'm Eldad Mwangi</h1>
 <h3 align="center">I am a front-end developer</h3>
 
-- 🌱 I’m currently learning **Django,QA automation**
+- 🌱 **Currently learning DevOps, GCP, CI/CD, Kubernetes, Terraform, Docker | Automation & Monitoring Expert**
 
 - 👨‍💻 All of my projects are available at [https://eldadmwangipersonal-portfolio.vercel.app/](https://eldadmwangipersonal-portfolio.vercel.app/)
 
