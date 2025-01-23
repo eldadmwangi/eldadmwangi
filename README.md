@@ -5,8 +5,6 @@
 
 - 🌱 **Currently learning DevOps, GCP, CI/CD, Kubernetes, Terraform, Docker | Automation & Monitoring Expert**
 
-- 👨‍💻 All of my projects are available at [https://eldadmwangipersonal-portfolio.vercel.app/](https://eldadmwangipersonal-portfolio.vercel.app/)
-
 - 💬 Ask me about **React, JavaScript,Nodejs, Python, Django**
 
 - 📫 How to reach me **eldadmwangi@gmail.com**
