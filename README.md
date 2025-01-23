@@ -5,7 +5,7 @@
 
 - 🌱 **Currently learning DevOps, GCP, CI/CD, Kubernetes, Terraform, Docker | Automation & Monitoring Expert**
 
-- 💬 Ask me about **React, JavaScript,Nodejs, Python, Django**
+- 💬 Ask me about **React, JavaScript,Nodejs, Python**
 
 - 📫 How to reach me **eldadmwangi@gmail.com**
 
