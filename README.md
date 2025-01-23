@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">👋, I'm Eldad Mwangi</h1>
-<h3 align="center">I am a front-end developer</h3>
+<h3 align="center">I am a software developer</h3>
 
 - 🌱 **Currently learning DevOps, GCP, CI/CD, Kubernetes, Terraform, Docker | Automation & Monitoring Expert**
 
