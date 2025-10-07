@@ -8,6 +8,7 @@
 - 💬 Ask me about **React, JavaScript,Nodejs, Python**
 
 - 📫 How to reach me **eldadmwangi@gmail.com**
+- 📫 How to reach me **eldadwachira901@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
